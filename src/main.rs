@@ -33,7 +33,7 @@ impl App {
           [1.0, 1.0, 1.0, 0.6],
           [1.0, 1.0, 1.0, 0.7],
         ];
-        const GRID_COLS: i32 = 6;
+        const GRID_COLS: i32 = 600;
         // 34 @ 10 cols;, 104 @ 30 cols
         const GRID_ROWS: i32 = (GRID_COLS as f64 * 3.5 - 0.75) as i32;
 
